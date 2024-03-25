@@ -10,4 +10,3 @@ Let's help the lion cub go home!
 - Press enter to let the game begin
   
 
-(the final project from computer graphics course)
