@@ -3,4 +3,11 @@ A lion cub got lost in the city. All of a sudden, a golden statue appeared and s
 
 Let's help the lion cub go home!
 
+### How to Play
+- Download the folder
+- Use vscode to open the folder, and open the live server
+- Press space to jump and catch, press w, s, a, d to change the position
+- Press enter to let the game begin
+  
+
 (the final project from computer graphics course)
